@@ -1,0 +1,16 @@
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.csprojResolveAssemblyReference.cache
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.dll
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.pdb
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.BussLog.dll
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.BussLog.pdb
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.dll
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.pdb
+D:\Evolucion\DemoJenkins\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.dll.config
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.dll.config
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.dll
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.pdb
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.BussLog.dll
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.BussLog.pdb
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.csprojResolveAssemblyReference.cache
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.dll
+E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.pdb

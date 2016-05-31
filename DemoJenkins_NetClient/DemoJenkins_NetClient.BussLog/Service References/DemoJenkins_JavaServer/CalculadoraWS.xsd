@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://webservice.evolucion.upc.edu.pe/" targetNamespace="http://webservice.evolucion.upc.edu.pe/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Resta" type="tns:Resta" />
+  <xs:element name="RestaResponse" type="tns:RestaResponse" />
+  <xs:element name="Suma" type="tns:Suma" />
+  <xs:element name="SumaResponse" type="tns:SumaResponse" />
+  <xs:complexType name="Suma">
+    <xs:sequence>
+      <xs:element name="x" type="xs:int" />
+      <xs:element name="y" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SumaResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Resta">
+    <xs:sequence>
+      <xs:element name="x" type="xs:int" />
+      <xs:element name="y" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RestaResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
