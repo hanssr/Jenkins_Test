@@ -87,7 +87,7 @@ namespace DemoJenkins_NetClient.Test
         {
 
             List<int> numeros = new List<int>();
-            var leer = new StreamReader("archivo1.txt");
+            var leer = new StreamReader("C:\\archivo1.txt");
 
             int[] vec = new int[3];
 
@@ -111,7 +111,7 @@ namespace DemoJenkins_NetClient.Test
         public void TestConcatenarTextodeTexto()
         {
             List<string> letras = new List<string>();
-            var leer = new StreamReader("archivo2.txt");
+            var leer = new StreamReader("C:\\archivo2.txt");
 
             while (!leer.EndOfStream)
             {
@@ -132,7 +132,7 @@ namespace DemoJenkins_NetClient.Test
         [TestMethod]
         public void TestCantidadLetrasdeTexto()
         {
-            var leer = new StreamReader("archivo3.txt");
+            var leer = new StreamReader("C:\\archivo3.txt");
 
             string texto = string.Empty;
 
@@ -148,7 +148,7 @@ namespace DemoJenkins_NetClient.Test
         [TestMethod]
         public void TestaMayusculadeTexto()
         {
-            var leer = new StreamReader("archivo4.txt");
+            var leer = new StreamReader("C:\\archivo4.txt");
 
             string texto = string.Empty;
 
@@ -165,7 +165,7 @@ namespace DemoJenkins_NetClient.Test
         [TestMethod]
         public void TestaMinusculadeTexto()
         {
-            var leer = new StreamReader("archivo4.txt");
+            var leer = new StreamReader("C:\\archivo4.txt");
 
             string texto = string.Empty;
 
@@ -183,7 +183,7 @@ namespace DemoJenkins_NetClient.Test
         [TestMethod]
         public void TestseEncontroenTexto()
         {
-            var leer = new StreamReader("archivo5.txt");
+            var leer = new StreamReader("C:\\archivo5.txt");
 
             string texto = string.Empty;
 
