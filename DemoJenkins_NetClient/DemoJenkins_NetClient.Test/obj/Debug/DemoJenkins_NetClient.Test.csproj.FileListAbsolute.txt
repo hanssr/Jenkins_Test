@@ -14,3 +14,11 @@ E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_Ne
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.csprojResolveAssemblyReference.cache
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.dll
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.dll.config
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.Test.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.BussLog.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\bin\Debug\DemoJenkins_NetClient.BussLog.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.csprojResolveAssemblyReference.cache
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.Test\obj\Debug\DemoJenkins_NetClient.Test.pdb

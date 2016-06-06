@@ -22,3 +22,16 @@ E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClie
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.Form1.resources
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.Properties.Resources.resources
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.csproj.GenerateResource.Cache
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.exe.config
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.exe
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.exe
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.BussLog.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.Test.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.BussLog.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\bin\Debug\DemoJenkins_NetClient.Test.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.csprojResolveAssemblyReference.cache
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.Form1.resources
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.Properties.Resources.resources
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient\obj\Debug\DemoJenkins_NetClient.csproj.GenerateResource.Cache

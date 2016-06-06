@@ -8,3 +8,8 @@ E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\bin\Debug\DemoJenkins
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\bin\Debug\DemoJenkins_NetClient.BussLog.pdb
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\obj\Debug\DemoJenkins_NetClient.BussLog.dll
 E:\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\obj\Debug\DemoJenkins_NetClient.BussLog.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\bin\Debug\DemoJenkins_NetClient.BussLog.dll.config
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\bin\Debug\DemoJenkins_NetClient.BussLog.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\bin\Debug\DemoJenkins_NetClient.BussLog.pdb
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\obj\Debug\DemoJenkins_NetClient.BussLog.dll
+D:\GitHub\Tarea2\TA2\DemoJenkins_NetClient\DemoJenkins_NetClient.BussLog\obj\Debug\DemoJenkins_NetClient.BussLog.pdb
