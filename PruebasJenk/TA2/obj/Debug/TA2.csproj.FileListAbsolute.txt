@@ -1,0 +1,4 @@
+D:\GitHub\Tarea2\TA2\PruebasJenk\TA2\bin\Debug\TA2.dll
+D:\GitHub\Tarea2\TA2\PruebasJenk\TA2\bin\Debug\TA2.pdb
+D:\GitHub\Tarea2\TA2\PruebasJenk\TA2\obj\Debug\TA2.dll
+D:\GitHub\Tarea2\TA2\PruebasJenk\TA2\obj\Debug\TA2.pdb
